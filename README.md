@@ -1,4 +1,13 @@
-# code-with-quarkus project
+# Projeto Quarkus
+
+Esse é um projeto básico com algumas implementações para estudo e um primeiro contato com o framework Quarkus.
+
+Colaboradores:
+
+MarcusVMaziero
+
+O restante do Readme é default de um projeto quarkus e possui algumas explicações sobre como rodar e beneficios:
+## code-with-quarkus project
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
